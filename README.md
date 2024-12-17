@@ -1,8 +1,7 @@
-# **Akinator avec Interaction Vocale**
+# **Présentation du projet : Jeu de devinettes de YouTubers avec IA**
 
 ## **1. Objectif d’automatisation**  
-L'objectif principal de ce projet est de créer une version interactive du jeu **Akinator**, qui permet à l'utilisateur de répondre aux questions par la voix et de recevoir des réponses vocales en retour. Ce système combine des algorithmes d'intelligence artificielle pour deviner un personnage en fonction des réponses données à une série de questions, tout en offrant une expérience plus immersive grâce à l'audio.
-
+Ce projet consiste en un jeu interactif où l'intelligence artificielle (IA) essaie de deviner un YouTuber auquel l'utilisateur pense, en posant une série de questions. Le système utilise un arbre de décision, une structure de données qui prend des décisions en fonction des réponses (oui ou non) de l'utilisateur. Chaque réponse conduit à une nouvelle question, jusqu'à ce que l'IA devine correctement le YouTuber.
 ---
 
 ## **2. ODD (Operational Domain Design)**  

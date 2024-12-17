@@ -15,6 +15,6 @@
                |                                      |
                v                                      v
        +----------------+                 +--------------------------+
-       |  Traitement du |                 |   Sortie Audio (Jack)    |
+       |  Traitement du |                 |   Sortie Audio (bt)      |
        |  Signal Audio  |                 |   (pour le haut-parleur) |
        +----------------+                 +--------------------------+
